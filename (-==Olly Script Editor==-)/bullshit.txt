@@ -1,0 +1,190 @@
+0040139D  Hardware breakpoint 1 at trialme_.0040139D
+          addy1: 0040139E
+          temp2: 001AC8E8
+00401421  Hardware breakpoint 1 at trialme_.00401421
+          addy1: 00401422
+          temp2: 402F4DB8
+004014A5  Hardware breakpoint 1 at trialme_.004014A5
+          addy1: 004014A6
+          temp2: E804E883
+00401527  Hardware breakpoint 1 at trialme_.00401527
+          addy1: 00401528
+          temp2: B2E83889
+004015A8  Hardware breakpoint 1 at trialme_.004015A8
+          addy1: 004015A9
+          temp2: 001AE6E8
+0040162C  Hardware breakpoint 1 at trialme_.0040162C
+          addy1: 0040162D
+          temp2: 001AAAE8
+004016B0  Hardware breakpoint 1 at trialme_.004016B0
+          addy1: 004016C3
+          temp2: 40739015
+0040171E  Hardware breakpoint 1 at trialme_.0040171E
+00401734  Hardware breakpoint 2 at trialme_.00401734
+          addy1: 00401735
+          temp2: FFFB83E8
+72D20000  Module C:\WINDOWS\system32\wdmaud.drv
+            Examining information (Microsoft format) available
+77920000  Module C:\WINDOWS\system32\setupapi.dll
+            Examining information (Microsoft format) available
+76C30000  Module C:\WINDOWS\system32\WINTRUST.dll
+            Examining information (Microsoft format) available
+77A80000  Module C:\WINDOWS\system32\CRYPT32.dll
+            Examining information (Microsoft format) available
+77B20000  Module C:\WINDOWS\system32\MSASN1.dll
+            Examining information (Microsoft format) available
+76C90000  Module C:\WINDOWS\system32\IMAGEHLP.dll
+            Examining information (Microsoft format) available
+77920000  Unload C:\WINDOWS\system32\setupapi.dll
+72D20000  Unload C:\WINDOWS\system32\wdmaud.drv
+72D20000  Module C:\WINDOWS\system32\wdmaud.drv
+            Examining information (Microsoft format) available
+7C810659  New thread with ID 00000464 created
+72D10000  Module C:\WINDOWS\system32\msacm32.drv
+            Size changed, discarding .udd data
+            Examining information (Microsoft format) available
+77BE0000  Module C:\WINDOWS\system32\MSACM32.dll
+            Examining information (Microsoft format) available
+7C810659  New thread with ID 00000474 created
+004017B8  Hardware breakpoint 1 at trialme_.004017B8
+          addy1: 004018D8
+          temp2: C483EC8B
+00401956  Hardware breakpoint 1 at trialme_.00401956
+          addy1: 00401957
+          temp2: 30D045C7
+004019DC  Hardware breakpoint 1 at trialme_.004019DC
+          addy1: 004019F1
+          temp2: 40739015
+00401A4C  Hardware breakpoint 1 at trialme_.00401A4C
+00401A62  Hardware breakpoint 2 at trialme_.00401A62
+          addy1: 00401A63
+          temp2: 8ED845C7
+00401AE8  Hardware breakpoint 1 at trialme_.00401AE8
+          addy1: 00401AE9
+          temp2: 00DC45C7
+00401B6E  Hardware breakpoint 1 at trialme_.00401B6E
+          addy1: 00401B6F
+          temp2: 1EE045C7
+00401BF4  Hardware breakpoint 1 at trialme_.00401BF4
+          addy1: 00401BF5
+          temp2: E80875FF
+00401C76  Hardware breakpoint 1 at trialme_.00401C76
+          addy1: 00401C77
+          temp2: E8E4458F
+00401CF8  Hardware breakpoint 1 at trialme_.00401CF8
+          addy1: 00401CF9
+          temp2: 10F045C7
+00401D7E  Hardware breakpoint 1 at trialme_.00401D7E
+          addy1: 00401D7F | ASCII "ÇEô"
+          temp2: 00F445C7
+00401E04  Hardware breakpoint 1 at trialme_.00401E04
+          addy1: 00401E05 | ASCII "ÇEøà`@"
+          temp2: E0F845C7
+00401E8A  Hardware breakpoint 1 at trialme_.00401E8A
+          addy1: 00401E8B
+          temp2: 007F0068
+00401F15  Hardware breakpoint 1 at trialme_.00401F15
+          addy1: 00401F16
+          temp2: E8E84589
+00401F97  Hardware breakpoint 1 at trialme_.00401F97
+          addy1: 00401F98
+          temp2: E8FC4589
+00402019  Hardware breakpoint 1 at trialme_.00402019
+          addy1: 0040201A
+          temp2: 007F0068
+004020A4  Hardware breakpoint 1 at trialme_.004020A4
+          addy1: 004020A5
+          temp2: E8EC4589
+00402126  Hardware breakpoint 1 at trialme_.00402126
+          addy1: 00402127
+          temp2: 50D0458D
+004021AE  Hardware breakpoint 1 at trialme_.004021AE
+77BD0000  Module C:\WINDOWS\system32\midimap.dll
+            Examining information (Microsoft format) available
+7C810659  New thread with ID 00000470 created
+0040258E  Hardware breakpoint 1 at trialme_.0040258E
+00402619  Hardware breakpoint 1 at trialme_.00402619
+          addy1: 0040261A
+          temp2: E80875FF
+0040269B  Hardware breakpoint 1 at trialme_.0040269B
+          addy1: 0040269C
+          temp2: 7038058F
+00402720  Hardware breakpoint 1 at trialme_.00402720
+          addy1: 00402721
+          temp2: 40700468
+004027A9  Hardware breakpoint 1 at trialme_.004027A9
+          addy1: 004027AA
+          temp2: 40700F68
+00402833  Hardware breakpoint 1 at trialme_.00402833
+          addy1: 00402834
+          temp2: A6E8006A
+004028B4  Hardware breakpoint 1 at trialme_.004028B4
+          addy1: 004028B5 | ASCII "hé`@"
+          temp2: 4060E968
+00402938  Hardware breakpoint 1 at trialme_.00402938
+          addy1: 00402939
+          temp2: 40701B68
+004029BC  Hardware breakpoint 1 at trialme_.004029BC
+          addy1: 004029BD
+          temp2: 703835FF
+00402A41  Hardware breakpoint 1 at trialme_.00402A41
+          addy1: 00402A42
+          temp2: 98E8D0FF
+00402AC2  Hardware breakpoint 1 at trialme_.00402AC2
+          addy1: 00402AC3
+          temp2: 402F1DB8
+00402B46  Hardware breakpoint 1 at trialme_.00402B46
+          addy1: 00402B47
+          temp2: 03ED6850
+          addy1: 004021C9
+          temp2: 00000D14
+00402246  Hardware breakpoint 1 at trialme_.00402246
+          addy1: 00402247
+          temp2: 35FF016A
+004022D2  Hardware breakpoint 1 at trialme_.004022D2
+          addy1: 004022D3
+          temp2: 703835FF
+0040235C  Hardware breakpoint 1 at trialme_.0040235C
+          addy1: 0040235D
+          temp2: FF3357EB
+004023D6  Hardware breakpoint 1 at trialme_.004023D6
+          addy1: 004023D7
+          temp2: 006A006A
+0040246C  Hardware breakpoint 1 at trialme_.0040246C
+          addy1: 0040246D
+          temp2: 50B4458D
+004024F4  Hardware breakpoint 1 at trialme_.004024F4
+          addy1: 004024F5
+          temp2: 50B4458D
+00402581  Hardware breakpoint 1 at trialme_.00402581
+          addy1: 00402582
+          temp2: E8BC458B
+          Thread 00000470 terminated, exit code 0
+          Thread 00000474 terminated, exit code 0
+          Thread 00000464 terminated, exit code 0
+5AD70000  Module C:\WINDOWS\system32\uxtheme.dll
+            Examining information (Microsoft format) available
+          Process terminated, exit code 0
+00400000  Unload C:\Documents and Settings\Administrator\Desktop\trialme.crackme\trialme.crackme\trialme.crackme\trialme.crackme.exe
+5AD70000  Unload C:\WINDOWS\system32\uxtheme.dll
+72D10000  Unload C:\WINDOWS\system32\msacm32.drv
+72D20000  Unload C:\WINDOWS\system32\wdmaud.drv
+76B40000  Unload C:\WINDOWS\system32\winmm.dll
+76C30000  Unload C:\WINDOWS\system32\WINTRUST.dll
+76C90000  Unload C:\WINDOWS\system32\IMAGEHLP.dll
+773D0000  Unload C:\WINDOWS\WinSxS\X86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2982_x-ww_ac3f9c03\comctl32.dll
+77A80000  Unload C:\WINDOWS\system32\CRYPT32.dll
+77B20000  Unload C:\WINDOWS\system32\MSASN1.dll
+77BD0000  Unload C:\WINDOWS\system32\midimap.dll
+77BE0000  Unload C:\WINDOWS\system32\MSACM32.dll
+77C10000  Unload C:\WINDOWS\system32\msvcrt.dll
+77D40000  Unload C:\WINDOWS\system32\user32.dll
+77DD0000  Unload C:\WINDOWS\system32\ADVAPI32.dll
+77E70000  Unload C:\WINDOWS\system32\RPCRT4.dll
+77F10000  Unload C:\WINDOWS\system32\GDI32.dll
+77F60000  Unload C:\WINDOWS\system32\SHLWAPI.dll
+7C800000  Unload C:\WINDOWS\system32\kernel32.dll
+7C900000  Unload C:\WINDOWS\system32\ntdll.dll
+          Log file closed
+
+
